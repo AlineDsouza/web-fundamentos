@@ -1,0 +1,23 @@
+body{
+    color: rgb(0, 0, 0);
+    background-color: rgb(239, 199, 247);
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    text-indent: 9px;
+}
+h1{
+    text-align: center;
+    background-color: rgb(203, 170, 233);
+
+}
+h2{
+    text-align: center;
+    background-color: rgb(203, 170, 233);
+}
+ul li{
+    margin: 10px;
+}
+#destaque{
+    color: rgb(5, 0, 3);
+}
