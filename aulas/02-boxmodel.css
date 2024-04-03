@@ -1,0 +1,25 @@
+body{
+    color: rgb(0, 0, 0);
+    background-color: rgb(232, 223, 234);
+   
+}
+h1{
+    font-size: 52px;
+    color: rgb(200, 0, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+   font-size: 48px;
+   font-style:italic;
+}
+h3{
+    font-size: 38px;
+    font-style: oblique;
+    text-align: center;
+}
+p{
+    text-indent:28px;
+    font-size: 25px;
+    text-align:left;
+    color: rgb(118, 27, 27);
+}
