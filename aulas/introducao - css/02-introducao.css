@@ -23,3 +23,8 @@ p{
     text-align:left;
     color: rgb(118, 27, 27);
 }
+
+.destaque{
+    color: rgb(43, 119, 226);
+    font-weight: bold;
+}
