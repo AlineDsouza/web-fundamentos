@@ -16,8 +16,30 @@ h2{
     background-color: rgb(203, 170, 233);
 }
 ul li{
-    margin: 10px;
+    margin: 2px;
 }
+.menu{
+    text-align: right;
+    
+}
+.menu li{
+    list-style: none;
+    display: inline-block;
+    
+   
+}
+.menu a{
+    background-color: rgb(181, 152, 181);
+    padding: 16px;
+    display: inline-block;
+    border-radius: 0.5rem;
+    text-decoration: none;
+}
+.menu a:hover{
+    background-color: rgb(158, 98, 214);
+    color: aliceblue;
+}
+
 #destaque{
     color: rgb(5, 0, 3);
 }
